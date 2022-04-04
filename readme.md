@@ -47,14 +47,3 @@ SW_Expert_Academy
  - D5
  	
 		!SWEA_D5_1247_최적_경로.java				2022-02-17 / Webex	/ [S/W 문제해결 응용] 3일차
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
