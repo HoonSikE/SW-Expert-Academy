@@ -3,6 +3,8 @@ SW_Expert_Academy
  
 		SWEA_4012_요리사.java						2022-02-16 / Webex
 		SWEA_5644_무선_충전.java						2022-02-16 / Webex
+		SWEA_5656_벽돌_깨기.java						2022-04-05 / Webex
+		SWEA_5658_보물상자_비밀번호.java				2022-00-00 / Study
  - D1
  
 		SWEA_D1_0272_홀수만_더하기.java				2022-01-12 / Webex
@@ -24,6 +26,7 @@ SW_Expert_Academy
 		SWEA_D3_1860_진기의_최고급_붕어빵				2022-02-24 / 스터디
 		SWEA_D3_1873_상호의_배틀필드.java				2022-02-04 / Webex
 		SWEA_D3_2805_농작물_수확하기.java				2022-02-04 / Webex
+		!SWEA_D3_3307_최장_증가_부분_수열.java		2022-04-04 / Webex
 		SWEA_D3_3499_퍼펙트_셔플.java				2022-02-11 / Webex
 		SWEA_D3_4047_영준이의_카드_카운팅.java			2022-02-22 / 스터디
 		SWEA_D3_5215_햄버거_다이어트.java				2022-02-07 / Webex
@@ -47,3 +50,10 @@ SW_Expert_Academy
  - D5
  	
 		!SWEA_D5_1247_최적_경로.java				2022-02-17 / Webex	/ [S/W 문제해결 응용] 3일차
+ - D6
+ 		
+		!SWEA_D6_1263_사람_네트워크2.java				2022-04-04 / Webex	/ [S/W 문제해결 응용] 8일차
+ - SW_Test_샘플문제
+ 
+		!SWEA_1767_프로세서_연결하기.java				2022-04-04 / HW		/ [SW Test 샘플문제] 프로세서 연결하기
+ 
